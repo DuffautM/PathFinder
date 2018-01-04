@@ -16,7 +16,7 @@ Then the user can simply walk to it.
 
 ### Use case
 
-Person have a walk in the forest or mountain. With Pathfinder, they can have the location of points of view.<br\>
+Person have a walk in the forest or mountain. With Pathfinder, they can have the location of points of view.<br/>
 A fire has started in a building, an employee can simply go outside of the building with the Pathfinder indicator.
 
 ## Project management
