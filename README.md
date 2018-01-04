@@ -68,3 +68,18 @@ And simply write it :
 ### GPS NEO-6M
 
 ### Transmitter esp8266
+
+![alt tag](https://github.com/DuffautM/PathFinder/blob/master/Images/ESP8266.jpg "esp8266 module")
+
+#### Specification
+
+The esp8266 is a Wi-fi transmitter and receptor. It is able to send and receive data. In our case, we use it to send the GPS location to the another esp8266.
+
+#### Connection
+
+The esp8266 have a Vcc pin connected on 3.3 V and a GND pin. <br/>
+The two another important parts are the RX and TX pin which assure the communication. You have to connect them on digital pin 1 and 0.
+
+#### Code
+
+Firstly you have to take an empty arduino code. Then you open the console and change the baud on 9600 if it's not done. Then you need to type the AT command for communicate with the esp module.
