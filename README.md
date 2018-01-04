@@ -51,7 +51,7 @@ First, you have to initialize the resolution of the screen on the setup : <br/>
 > lcd.begin(84, 48);
 
 And then you just have to set the cursor on the screen and print your text :
->lcd.setCursor(0, 0);
+>lcd.setCursor(0, 0); <br/>
 >lcd.print("Is alive !");
 
 But, to split an image, it's more difficult. <br/>
