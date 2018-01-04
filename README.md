@@ -14,10 +14,31 @@ A beacon is placed, it transmit a message with his location to a bracelet own by
 This bracelet have a screen wich indicate the direction of the beacon with an arrow.
 Then the user can simply walk to it.
 
+### Business model
+
+#### Target
+
+The business model of our product have a large affect zone. But the most important way to use it are outside (cause of the Wi-fi comunication for indoor use). So any outside activies can use this product.<br/>
+By the way, our product is useless for a particular but more adapted for company or group.
+The target person is a commercial of a company for hiking for example or a shcool (see Use Case part).
+
+#### Cost/Utility
+
+The final product will not cost a lot. The different components that define our product are not expensive a lot.
+In fact for the bracelet and the beacon we need :
+* 2 screen
+* 2 GPS
+* 2 transmiter
+* 1 gyroscope
+* Batteries
+
+The total ammount is less than 50 €
+
 ### Use case
 
-Person have a walk in the forest or mountain. With Pathfinder, they can have the location of points of view.<br/>
-A fire has started in a building, an employee can simply go outside of the building with the Pathfinder indicator.
+Either you are in a park, forest or montain, you can put a beacon where the person can go to see a beautiful view or make a parkour. And if a person is lost, it can watch is bracelet and come back to the beacon. This use case is more toursit friendly but it can be use also for shcool trip.<br/>
+Student have beacons (like bracelet), so the master only to check his screen to find a children that he can't see.<br/>
+Finally, the person reached by malady can have this bracelet. Then you can find easely a person that walk too far from the group.
 
 ## Project management
 
