@@ -56,7 +56,7 @@ Finally, a person reached by a disease or a disability can wear a beacon or brac
 
 <div style="text-align:center">
 
-	<img src ="https://github.com/DuffautM/PathFinder/blob/master/Images/Nokia%20511.png" alt="Nokia 511" />
+	<img src ="/Images/Nokia%20511.png" alt="Nokia 511" />
 
 </div>
 
