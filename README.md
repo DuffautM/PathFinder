@@ -54,11 +54,7 @@ Finally, a person reached by a disease or a disability can wear a beacon or brac
 
 ### Nokia 511 screen test
 
-<div style="text-align:center">
-
-	<img src ="/Images/Nokia%20511.png" alt="Nokia 511" />
-
-</div>
+![alt tag](https://github.com/DuffautM/PathFinder/blob/master/Images/Nokia%20511.png "Nokia 511")
 
 #### Specification
 
