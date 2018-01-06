@@ -58,8 +58,13 @@ Finally, a person reached by a disease or a disability can wear a beacon or brac
 
 #### Specification
 
+<<<<<<< Updated upstream
 The Nokia 511 screen can show text and image. It is use tpo display the directions to follow on the bracelet for the user.
 An another caracteristic is that it has lights on both sides, so the user can use it on eihter in day or night.
+=======
+The Nokia 511 screen can show text and image. It is use for the indicator on the bracelet.
+An another caracteristic is that he have lights on the side, so we can use it on both day and night hours.
+>>>>>>> Stashed changes
 
 #### Connection
 
@@ -103,4 +108,8 @@ The two another important parts are the RX and TX pin which assure the communica
 
 #### Code
 
+<<<<<<< Updated upstream
 Firstly you have to take an empty arduino code. Then you open the console and change the baud on 9600 if it's not done. Then you need to type the AT command within the console to communicate with the esp module.
+=======
+Firstly you have to take an empty arduino code. Then you open the console and change the baud on 9600 if it's not done. Then you need to type the AT command to communicate with the esp module.
+>>>>>>> Stashed changes
