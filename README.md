@@ -28,11 +28,15 @@ The final product will not cost a lot. The different components that define our 
 In fact for the bracelet and the beacon we need :
 * 1 screen
 * 2 GPS
-* 2 transmiter
+* 2 transmitter
 * 1 gyroscope
 * Batteries
+* 2 mini-arduino
+* a support
 
-The total ammount is less than 50 €
+The total ammount is less than 55 €<br/>
+So for that price, you can equip your society with a lot of Pathfinder.<br/>
+And the bracelets and beacons are reusable, an unlimited times.
 
 ### Use case
 
