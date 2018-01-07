@@ -103,9 +103,26 @@ The MPU-6050 sensor contains a accelerometer and a gyro in a single chip. It is 
 
 As the MPU-6050 is not expensive and combines both an accelerometer and a gyro, it was selected for the project thanks to its qualities.
 
+#### Connection
+
+
+| MPU-6050 | Arduino |
+| -------- | ------- |
+| VCC | 5V |
+| GND | GND |
+| SCL | Analog pin |
+| SDA | Analog pin |
+| INT | Digital pin |
+
+#### Code
+
+First of all, 2 librairies are mandatories to use the code, first of all the Arduino library for MPU-6050 and second, the I2Cdev library.
+
+After that, the code from the library will provide the desired data to let the bracelet understand the position it is in.
+
 ### GPS NEO-6M
 
-![alt tag](https://github.com/DuffautM/PathFinder/blob/master/Images/NEO-6M.jpg "GPS")
+![alt tag](https://github.com/DufautM/PathFinder/blob/master/Images/NEO-6M.jpg "GPS")
 
 #### Specification
 
@@ -146,12 +163,10 @@ The esp8266 is a Wi-fi transmitter and receptor. It is able to send and receive 
 
 #### Connection
 
-The esp8266 have a Vcc pin connected on 3.3 V and a GND pin. <br/>
-The two another important parts are the RX and TX pin which assure the communication. You have to connect them on digital pin 1 and 0.
+The esp8266 has a Vcc pin connected on 3.3 V and a GND pin. <br/>
+The two other important parts are the RX and TX pin which assure the communication. You have to connect them on digital pin 1 and 0.
 
 #### Code
 
 
 Firstly you have to take an empty arduino code. Then you open the console and change the baud on 9600 if it's not done. Then you need to type the AT command within the console to communicate with the esp module.
-
-Firstly you have to take an empty arduino code. Then you open the console and change the baud on 9600 if it's not done. Then you need to type the AT command to communicate with the esp module.
