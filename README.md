@@ -54,6 +54,10 @@ Finally, a person reached by a disease or a disability can wear a beacon or brac
 
 ![alt tag](https://github.com/DuffautM/PathFinder/blob/master/Images/Innovation%20-%20WBS.png "WBS")
 
+### PERT
+
+![alt tag](https://github.com/DuffautM/PathFinder/blob/master/Images/Innovation%20PERT.png "PERT")
+
 ## Test
 
 ### Nokia 511 screen test
@@ -62,11 +66,8 @@ Finally, a person reached by a disease or a disability can wear a beacon or brac
 
 #### Specification
 
-The Nokia 511 screen can show text and image. It is use tpo display the directions to follow on the bracelet for the user.
-An another caracteristic is that it has lights on both sides, so the user can use it on eihter in day or night.
-
-The Nokia 511 screen can show text and image. It is use for the indicator on the bracelet.
-An another caracteristic is that he have lights on the side, so we can use it on both day and night hours.
+The Nokia 511 screen can show text and image. It is used to display the directions to follow on the bracelet for the user.
+An other characteristic is that it has lights on both sides, so the user can use it eihter during the day or the night.
 
 #### Connection
 
@@ -92,6 +93,14 @@ And simply write it :
 > lcd.write(NumberOfTheImage) // Currently 0
 
 ### Gyroscope MPU-6050
+
+![alt tag](https://github.com/DuffautM/PathFinder/blob/master/Images/MPU-6050.png "MPU 6050")
+
+#### Specification
+
+The MPU-6050 sensor contains a accelerometer and a gyro in a single chip. It is very accurate, as it contains 16-bits analog to digital conversion hardware for each channel. Therefor it captures the x, y, and z channel at the same time. The sensor uses the I2C-bus to interface with the Arduino.
+
+As the MPU-6050 is not expensive and combines both an accelerometer and a gyro, it was selected for the project thanks to its qualities.
 
 ### GPS NEO-6M
 
