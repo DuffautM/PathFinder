@@ -122,7 +122,7 @@ After that, the code from the library will provide the desired data to let the b
 
 ### GPS NEO-6M
 
-![alt tag](https://github.com/DufautM/PathFinder/blob/master/Images/NEO-6M.jpg "GPS")
+![alt tag](https://github.com/DuffautM/PathFinder/blob/master/Images/NEO-6M.jpg "GPS")
 
 #### Specification
 
