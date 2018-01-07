@@ -95,6 +95,37 @@ And simply write it :
 
 ### GPS NEO-6M
 
+![alt tag](https://github.com/DuffautM/PathFinder/blob/master/Images/NEO-6M.jpg "GPS")
+
+#### Specification
+
+The NEO-6M GPS module is a well-performing complete GPS receiver, which provides a strong satellite search capability. With the power and signal indicators, you can monitor the status of the module. Thanks to the data backup battery, the module can save the data when the main power is shut down accidentally. Its 3mm mounting holes can ensure easy assembly on your aircraft, which thus can fly steadily at a fixed position, return to Home automatically, and automatic waypoint flying, etc. Or you can apply it on your smart robot car for automatic returning or heading to a certain destination, making it a real "smart" bot!
+
+#### Connection
+
+##### Prerequisites
+
+* NEO-6M GPS Module
+* Arduino Uno Board and USB
+* Female-Male Jumper Wire
+
+##### Connection of Arduino UNO and GPS module
+
+Connect the four pins from UBLOX to an Arduino as follows:
+
+*	Ublox - Arduino
+*	GND - GND
+*	TX - Digital pin (D3)
+*	RX - Digital pin (D4)
+*	Vcc - 5Vdc
+
+
+#### Code
+
+This code sends all strings received from the GPS through serial to your computer (Serial Monitor)
+
+![alt tag](https://github.com/DuffautM/PathFinder/blob/master/Images/code.png "GPS code")
+
 ### Transmitter esp8266
 
 ![alt tag](https://github.com/DuffautM/PathFinder/blob/master/Images/ESP8266.jpg "esp8266 module")
