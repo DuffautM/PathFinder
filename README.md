@@ -28,7 +28,7 @@ The final product will not cost a lot. The different components that define our 
 In fact for the bracelet and the beacon we need :
 * 1 screen
 * 2 GPS
-* 2 transmitter
+* 2 transmitters
 * 1 gyroscope
 * Batteries
 * 2 mini-arduino
@@ -43,6 +43,7 @@ And the bracelets and beacons are reusable, an unlimited times.
 Either you are in a park, forest or montain, you can put a beacon where the person can go to see a beautiful view or make a parkour. And if a person is lost, he can watch is bracelet and come back to the beacon. This use case is more toursit friendly but it can be use also for shcool trip.<br/>
 The teacher has a beacon, so the students who wander a bit far from the group won't hae to worry getting lot because they will only need to check their wrist to find their way back.<br/>
 Finally, a person reached by a disease or a disability can wear a beacon or bracelet to let other people know where to find him in case of a problem or emergency.
+It may also be used in a more professional environment, such as the workplace. If a company receives visitors for an appointment, they can be provided with a bracelet that will led them to the appropriate meeting room.
 
 ## Project management
 
@@ -94,7 +95,7 @@ And simply write it :
 
 ### Gyroscope MPU-6050
 
-![alt tag](https://github.com/DuffautM/PathFinder/blob/master/Images/MPU-6050.png "MPU 6050")
+![alt tag](https://github.com/DuffautM/PathFinder/blob/master/Images/MPU-6050.jpg "MPU 6050")
 
 #### Specification
 
